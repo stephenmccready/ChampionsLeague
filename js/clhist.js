@@ -32,6 +32,7 @@ function drawChart() {
       teamName=teamName.replace('%8D','\347');
       teamName=teamName.replace('%28','(');
       teamName=teamName.replace('%29',')');
+      teamName=teamName.replace('%96','\361');
       data.addRow([ teamName+' ('+appearances.toString()+')', appearances ]);
     }
     
