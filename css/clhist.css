@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#dashboard_div {
+    width: 75%;
+    margin-left:2.5%;
+}
+#slider-range {
+    width: 75%;
+}
+#showBy {
+    float: left;
+}
+#stages {
+    clear: all;
+    margin-top: 2.5%;
+}
+#piechart_3d {
+    width: 100%;
+    height: 100%;
+}
+#startYYYY {
+    width: 45px;
+    text-align: right;
+    font-size: 100%;
+}
+#endYYYY {
+    width: 45px;
+    font-size: 100%;
+}
