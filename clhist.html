@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Champions League Knockout Stage</title>
+    <link rel="stylesheet" href="css/clhist.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script src="js/clhist.js"></script>
+  </head>
+  <body>
+    <div id="dashboard_div">
+        <h3>Champions League Knockout Stages - Appearances</h3>
+         <p>
+            <label for="startYYYY">Date range:</label>
+            <input type="text" id="startYYYY" readonly style="border:0; color:#f6931f; font-weight:bold;" onchange="drawChart()">
+            &nbsp;-&nbsp;<input type="text" id="endYYYY" readonly style="border:0; color:#f6931f; font-weight:bold;" onchange="drawChart()">
+            &nbsp;(<span id="spanYears"></span> years)
+        </p>
+        <div id="slider-range"></div>
+       <p>
+            Show
+            <input type="radio" name="teamOrCountry" onchange="drawChart()" value="team" checked> Teams<span id="spanTeams"></span>
+            <input type="radio" name="teamOrCountry" onchange="drawChart()" value="country"> Countries<span id="spanCountries"></span>
+            &nbsp;&nbsp;&nbsp;<input id="weighted" type="checkbox" onclick="drawChart()">Weighted <i>(Winner=16, Runner-up=8, Semi Finalist=4 etc...)</i>
+        </p>
+        <div id="stages">
+        <!--    <input id="groups" type="checkbox" checked="checked" onclick="drawChart()">Group Stage -->
+            <input id="last16" type="checkbox" checked="checked" onclick="drawChart()">Last 16
+            <input id="qtrfin" type="checkbox" checked="checked" onclick="drawChart()">Quarter Finalists
+            <input id="semifn" type="checkbox" checked="checked" onclick="drawChart()">Semi Finalists
+            <input id="runner" type="checkbox" checked="checked" onclick="drawChart()">Runners Up
+            <input id="winner" type="checkbox" checked="checked" onclick="drawChart()">Winners
+        </div>
+    </div>
+    <div id="piechart_3d"></div>
+    <div id="divDebug"></div>
+  </body>
+</html>
