@@ -1,151 +1,360 @@
-Year,Team,Stage
-2011,Barcelona,1. Winner
-2011,Manchester United,2. Runner Up
-2011,Barcelona,3. Semifinalist
-2011,Manchester United,3. Semifinalist
-2011,Real Madrid,3. Semifinalist
-2011,Schalke 04,3. Semifinalist
-2011,Barcelona,4. Quarterfinalist
-2011,Manchester United,4. Quarterfinalist
-2011,Real Madrid,4. Quarterfinalist
-2011,Schalke 04,4. Quarterfinalist
-2011,Tottenham Hotspur,4. Quarterfinalist
-2011,Shakhtar Donetsk,4. Quarterfinalist
-2011,Internazionale,4. Quarterfinalist
-2011,Chelsea,4. Quarterfinalist
-2011,Barcelona,5. Last 16
-2011,Manchester United,5. Last 16
-2011,Real Madrid,5. Last 16
-2011,Schalke 04,5. Last 16
-2011,Tottenham Hotspur,5. Last 16
-2011,Shakhtar Donetsk,5. Last 16
-2011,Internazionale,5. Last 16
-2011,Chelsea,5. Last 16
-2011,Lyon,5. Last 16
-2011,Milan,5. Last 16
-2011,Arsenal,5. Last 16
-2011,Roma,5. Last 16
-2011,Bayern Munich,5. Last 16
-2011,Valencia,5. Last 16
-2011,Copenhagen,5. Last 16
-2011,Marseille,5. Last 16
-2012,Chelsea,1. Winner
-2012,Bayern Munich,2. Runner Up
-2012,Barcelona,3. Semifinalist
-2012,Bayern Munich,3. Semifinalist
-2012,Chelsea,3. Semifinalist
-2012,Real Madrid,3. Semifinalist
-2012,Barcelona,4. Quarterfinalist
-2012,Bayern Munich,4. Quarterfinalist
-2012,Chelsea,4. Quarterfinalist
-2012,Real Madrid,4. Quarterfinalist
-2012,Marseille,4. Quarterfinalist
-2012,APOEL,4. Quarterfinalist
-2012,Benfica,4. Quarterfinalist
-2012,Milan,4. Quarterfinalist
-2012,Barcelona,5. Last 16
-2012,Bayern Munich,5. Last 16
-2012,Chelsea,5. Last 16
-2012,Real Madrid,5. Last 16
-2012,Marseille,5. Last 16
-2012,APOEL,5. Last 16
-2012,Benfica,5. Last 16
-2012,Milan,5. Last 16
-2012,Internazionale,5. Last 16
-2012,Basel,5. Last 16
-2012,Lyon,5. Last 16
-2012,CSKA Moscow,5. Last 16
-2012,Zenit Saint Petersberg,5. Last 16
-2012,Napoli,5. Last 16
-2012,Arsenal,5. Last 16
-2012,Bayer Leverkusen,5. Last 16
-2013,Bayern Munich,1. Winner
-2013,Borussia Dortmund,2. Runner Up
-2013,Barcelona,3. Semifinalist
-2013,Bayern Munich,3. Semifinalist
-2013,Borussia Dortmund,3. Semifinalist
-2013,Real Madrid,3. Semifinalist
-2013,Barcelona,4. Quarterfinalist
-2013,Bayern Munich,4. Quarterfinalist
-2013,Borussia Dortmund,4. Quarterfinalist
-2013,Real Madrid,4. Quarterfinalist
-2013,Málaga,4. Quarterfinalist
-2013,Galatasary,4. Quarterfinalist
-2013,Juventus,4. Quarterfinalist
-2013,Paris Saint-German,4. Quarterfinalist
-2013,Barcelona,5. Last 16
-2013,Bayern Munich,5. Last 16
-2013,Borussia Dortmund,5. Last 16
-2013,Real Madrid,5. Last 16
-2013,Málaga,5. Last 16
-2013,Galatasary,5. Last 16
-2013,Juventus,5. Last 16
-2013,Paris Saint-German,5. Last 16
-2013,Porto,5. Last 16
-2013,Shakhtar Donetsk,5. Last 16
-2013,Manchester United,5. Last 16
-2013,Schalke 04,5. Last 16
-2013,Arsenal,5. Last 16
-2013,Celtic,5. Last 16
-2013,Valencia,5. Last 16
-2013,Milan,5. Last 16
-2014,Real Madrid,1. Winner
-2014,Atlético Madrid,2. Runner Up
-2014,Atlético Madrid,3. Semifinalist
-2014,Bayern Munich,3. Semifinalist
-2014,Chelsea,3. Semifinalist
-2014,Real Madrid,3. Semifinalist
-2014,Atlético Madrid,4. Quarterfinalist
-2014,Bayern Munich,4. Quarterfinalist
-2014,Chelsea,4. Quarterfinalist
-2014,Real Madrid,4. Quarterfinalist
-2014,Borussia Dortmund,4. Quarterfinalist
-2014,Manchester United,4. Quarterfinalist
-2014,Barcelona,4. Quarterfinalist
-2014,Paris Saint-German,4. Quarterfinalist
-2014,Atlético Madrid,5. Last 16
-2014,Bayern Munich,5. Last 16
-2014,Chelsea,5. Last 16
-2014,Real Madrid,5. Last 16
-2014,Borussia Dortmund,5. Last 16
-2014,Manchester United,5. Last 16
-2014,Barcelona,5. Last 16
-2014,Paris Saint-German,5. Last 16
-2014,Schalke 04,5. Last 16
-2014,Zenit Saint Petersberg,5. Last 16
-2014,Olympiacos,5. Last 16
-2014,Arsenal,5. Last 16
-2014,Manchester City,5. Last 16
-2014,Milan,5. Last 16
-2014,Bayer Leverkusen,5. Last 16
-2014,Galatasary,5. Last 16
-2015,Barcelona,1. Winner
-2015,Juventus,2. Runner Up
-2015,Barcelona,3. Semifinalist
-2015,Bayern Munich,3. Semifinalist
-2015,Juventus,3. Semifinalist
-2015,Real Madrid,3. Semifinalist
-2015,Barcelona,4. Quarterfinalist
-2015,Bayern Munich,4. Quarterfinalist
-2015,Juventus,4. Quarterfinalist
-2015,Real Madrid,4. Quarterfinalist
-2015,Monaco,4. Quarterfinalist
-2015,Atlético Madrid,4. Quarterfinalist
-2015,Paris Saint-German,4. Quarterfinalist
-2015,Porto,4. Quarterfinalist
-2015,Barcelona,5. Last 16
-2015,Bayern Munich,5. Last 16
-2015,Juventus,5. Last 16
-2015,Real Madrid,5. Last 16
-2015,Monaco,5. Last 16
-2015,Atlético Madrid,5. Last 16
-2015,Paris Saint-German,5. Last 16
-2015,Porto,5. Last 16
-2015,Borussia Dortmund,5. Last 16
-2015,Arsenal,5. Last 16
-2015,Bayer Leverkusen,5. Last 16
-2015,Schalke 04,5. Last 16
-2015,Chelsea,5. Last 16
-2015,Manchester City,5. Last 16
-2015,Basel,5. Last 16
-2015,Shakhtar Donetsk,5. Last 16
+2004,Porto,1. Winner,Portugal
+2004,Monaco,2. Runner Up,France
+2004,Porto,3. Semifinalist,Portugal
+2004,Monaco,3. Semifinalist,France
+2004,Chelsea,3. Semifinalist,England
+2004,Deportivo La Coruña,3. Semifinalist,Spain
+2004,Porto,4. Quarterfinalist,Portugal
+2004,Monaco,4. Quarterfinalist,France
+2004,Chelsea,4. Quarterfinalist,England
+2004,Deportivo La Coruña,4. Quarterfinalist,Spain
+2004,Real Madrid,4. Quarterfinalist,Spain
+2004,Arsenal,4. Quarterfinalist,England
+2004,Lyon,4. Quarterfinalist,France
+2004,Milan,4. Quarterfinalist,Italy
+2004,Porto,5. Last 16,Portugal
+2004,Monaco,5. Last 16,France
+2004,Chelsea,5. Last 16,England
+2004,Deportivo La Coruña,5. Last 16,Spain
+2004,Real Madrid,5. Last 16,Spain
+2004,Arsenal,5. Last 16,England
+2004,Lyon,5. Last 16,France
+2004,Milan,5. Last 16,Italy
+2004,Bayern Munich,5. Last 16,Germany
+2004,Lokomotiv Moscow,5. Last 16,Russia
+2004,Stuttgart,5. Last 16,Germany
+2004,Celta de Vigo,5. Last 16,Spain
+2004,Manchester United,5. Last 16,England
+2004,Real Sociedad,5. Last 16,Spain
+2004,Sparta Prague,5. Last 16,Czech Republic
+2004,Juventus,5. Last 16,Italy
+2005,Liverpool,1. Winner,England
+2005,Milan,2. Runner Up,Italy
+2005,Liverpool,3. Semifinalist,England
+2005,Milan,3. Semifinalist,Italy
+2005,PSV Eindhoven,3. Semifinalist,Netherlands
+2005,Chelsea,3. Semifinalist,England
+2005,Liverpool,4. Quarterfinalist,England
+2005,Milan,4. Quarterfinalist,Italy
+2005,PSV Eindhoven,4. Quarterfinalist,Netherlands
+2005,Chelsea,4. Quarterfinalist,England
+2005,Internazionale,4. Quarterfinalist,Italy
+2005,Lyon,4. Quarterfinalist,France
+2005,Bayern Munich,4. Quarterfinalist,Germany
+2005,Juventus,4. Quarterfinalist,Italy
+2005,Liverpool,5. Last 16,England
+2005,Milan,5. Last 16,Italy
+2005,PSV Eindhoven,5. Last 16,Netherlands
+2005,Chelsea,5. Last 16,England
+2005,Internazionale,5. Last 16,Italy
+2005,Lyon,5. Last 16,France
+2005,Bayern Munich,5. Last 16,Germany
+2005,Juventus,5. Last 16,Italy
+2005,Manchester United,5. Last 16,England
+2005,Porto,5. Last 16,Portugal
+2005,Werder Bremen,5. Last 16,Germany
+2005,Monaco,5. Last 16,France
+2005,Barcelona,5. Last 16,Spain
+2005,Arsenal,5. Last 16,England
+2005,Bayer Leverkusen,5. Last 16,Germany
+2005,Real Madrid,5. Last 16,Spain
+2006,Barcelona,1. Winner,Spain
+2006,Arsenal,2. Runner Up,England
+2006,Barcelona,3. Semifinalist,Spain
+2006,Arsenal,3. Semifinalist,England
+2006,Villarreal,3. Semifinalist,Spain
+2006,Milan,3. Semifinalist,Italy
+2006,Barcelona,4. Quarterfinalist,Spain
+2006,Arsenal,4. Quarterfinalist,England
+2006,Villarreal,4. Quarterfinalist,Spain
+2006,Milan,4. Quarterfinalist,Italy
+2006,Juventus,4. Quarterfinalist,Italy
+2006,Internazionale,4. Quarterfinalist,Italy
+2006,Lyon,4. Quarterfinalist,France
+2006,Benfica,4. Quarterfinalist,Portugal
+2006,Barcelona,5. Last 16,Spain
+2006,Arsenal,5. Last 16,England
+2006,Villarreal,5. Last 16,Spain
+2006,Milan,5. Last 16,Italy
+2006,Juventus,5. Last 16,Italy
+2006,Internazionale,5. Last 16,Italy
+2006,Lyon,5. Last 16,France
+2006,Benfica,5. Last 16,Portugal
+2006,Real Madrid,5. Last 16,Spain
+2006,Werder Bremen,5. Last 16,Germany
+2006,Ajax,5. Last 16,Netherlands
+2006,Rangers (IL),5. Last 16,Scotland
+2006,PSV Eindhoven,5. Last 16,Netherlands
+2006,Bayern Munich,5. Last 16,Germany
+2006,Liverpool,5. Last 16,England
+2006,Chelsea,5. Last 16,England
+2007,Milan,1. Winner,Italy
+2007,Liverpool,2. Runner Up,England
+2007,Milan,3. Semifinalist,Italy
+2007,Liverpool,3. Semifinalist,England
+2007,Manchester United,3. Semifinalist,England
+2007,Chelsea,3. Semifinalist,England
+2007,Milan,4. Quarterfinalist,Italy
+2007,Liverpool,4. Quarterfinalist,England
+2007,Manchester United,4. Quarterfinalist,England
+2007,Chelsea,4. Quarterfinalist,England
+2007,Roma,4. Quarterfinalist,Italy
+2007,Bayern Munich,4. Quarterfinalist,Germany
+2007,Valencia,4. Quarterfinalist,Spain
+2007,PSV Eindhoven,4. Quarterfinalist,Netherlands
+2007,Milan,5. Last 16,Italy
+2007,Liverpool,5. Last 16,England
+2007,Manchester United,5. Last 16,England
+2007,Chelsea,5. Last 16,England
+2007,Roma,5. Last 16,Italy
+2007,Bayern Munich,5. Last 16,Germany
+2007,Valencia,5. Last 16,Spain
+2007,PSV Eindhoven,5. Last 16,Netherlands
+2007,Lyon,5. Last 16,France
+2007,Lille,5. Last 16,France
+2007,Celtic,5. Last 16,Scotland
+2007,Real Madrid,5. Last 16,Spain
+2007,Porto,5. Last 16,Portugal
+2007,Internazionale,5. Last 16,Italy
+2007,Arsenal,5. Last 16,England
+2007,Barcelona,5. Last 16,Spain
+2008,Manchester United,1. Winner,England
+2008,Chelsea,2. Runner Up,England
+2008,Manchester United,3. Semifinalist,England
+2008,Chelsea,3. Semifinalist,England
+2008,Liverpool,3. Semifinalist,England
+2008,Barcelona,3. Semifinalist,Spain
+2008,Manchester United,4. Quarterfinalist,England
+2008,Chelsea,4. Quarterfinalist,England
+2008,Liverpool,4. Quarterfinalist,England
+2008,Barcelona,4. Quarterfinalist,Spain
+2008,Schalke 04,4. Quarterfinalist,Germany
+2008,Roma,4. Quarterfinalist,Italy
+2008,Arsenal,4. Quarterfinalist,England
+2008,Fenerbahçe,4. Quarterfinalist,Turkey
+2008,Manchester United,5. Last 16,England
+2008,Chelsea,5. Last 16,England
+2008,Liverpool,5. Last 16,England
+2008,Barcelona,5. Last 16,Spain
+2008,Schalke 04,5. Last 16,Germany
+2008,Roma,5. Last 16,Italy
+2008,Arsenal,5. Last 16,England
+2008,Fenerbahçe,5. Last 16,Turkey
+2008,Porto,5. Last 16,Portugal
+2008,Celtic,5. Last 16,Scotland
+2008,Real Madrid,5. Last 16,Spain
+2008,Lyon,5. Last 16,France
+2008,Milan,5. Last 16,Italy
+2008,Internazionale,5. Last 16,Italy
+2008,Sevilla,5. Last 16,Spain
+2008,Olympiacos,5. Last 16,Greece
+2009,Barcelona,1. Winner,Spain
+2009,Manchester United,2. Runner Up,England
+2009,Barcelona,3. Semifinalist,Spain
+2009,Manchester United,3. Semifinalist,England
+2009,Arsenal,3. Semifinalist,England
+2009,Chelsea,3. Semifinalist,England
+2009,Barcelona,4. Quarterfinalist,Spain
+2009,Manchester United,4. Quarterfinalist,England
+2009,Arsenal,4. Quarterfinalist,England
+2009,Chelsea,4. Quarterfinalist,England
+2009,Bayern Munich,4. Quarterfinalist,Germany
+2009,Liverpool,4. Quarterfinalist,England
+2009,Porto,4. Quarterfinalist,Portugal
+2009,Villarreal,4. Quarterfinalist,Spain
+2009,Barcelona,5. Last 16,Spain
+2009,Manchester United,5. Last 16,England
+2009,Arsenal,5. Last 16,England
+2009,Chelsea,5. Last 16,England
+2009,Bayern Munich,5. Last 16,Germany
+2009,Liverpool,5. Last 16,England
+2009,Porto,5. Last 16,Portugal
+2009,Villarreal,5. Last 16,Spain
+2009,Lyon,5. Last 16,France
+2009,Sporting CP,5. Last 16,Portugal
+2009,Real Madrid,5. Last 16,Spain
+2009,Juventus,5. Last 16,Italy
+2009,Internazionale,5. Last 16,Italy
+2009,Atlético Madrid,5. Last 16,Spain
+2009,Panathinaikos,5. Last 16,Greece
+2009,Roma,5. Last 16,Italy
+2010,Internazionale,1. Winner,Italy
+2010,Bayern Munich,2. Runner Up,Germany
+2010,Barcelona,3. Semifinalist,Spain
+2010,Bayern Munich,3. Semifinalist,Germany
+2010,Internazionale,3. Semifinalist,Italy
+2010,Lyon,3. Semifinalist,France
+2010,Arsenal,4. Quarterfinalist,England
+2010,Barcelona,4. Quarterfinalist,Spain
+2010,Bayern Munich,4. Quarterfinalist,Germany
+2010,Bordeaux,4. Quarterfinalist,France
+2010,CSKA Moscow,4. Quarterfinalist,Russia
+2010,Internazionale,4. Quarterfinalist,Italy
+2010,Lyon,4. Quarterfinalist,France
+2010,Manchester United,4. Quarterfinalist,England
+2010,Arsenal,5. Last 16,England
+2010,Barcelona,5. Last 16,Spain
+2010,Bayern Munich,5. Last 16,Germany
+2010,Bordeaux,5. Last 16,France
+2010,Chelsea,5. Last 16,England
+2010,CSKA Moscow,5. Last 16,Russia
+2010,Fiorentina,5. Last 16,Italy
+2010,Internazionale,5. Last 16,Italy
+2010,Lyon,5. Last 16,France
+2010,Manchester United,5. Last 16,England
+2010,Milan,5. Last 16,Italy
+2010,Olympiacos,5. Last 16,Greece
+2010,Porto,5. Last 16,Portugal
+2010,Real Madrid,5. Last 16,Spain
+2010,Sevilla,5. Last 16,Spain
+2010,Stuttgart,5. Last 16,Germany
+2011,Barcelona,1. Winner,Spain
+2011,Manchester United,2. Runner Up,England
+2011,Barcelona,3. Semifinalist,Spain
+2011,Manchester United,3. Semifinalist,England
+2011,Real Madrid,3. Semifinalist,Spain
+2011,Schalke 04,3. Semifinalist,Germany
+2011,Barcelona,4. Quarterfinalist,Spain
+2011,Chelsea,4. Quarterfinalist,England
+2011,Internazionale,4. Quarterfinalist,Italy
+2011,Manchester United,4. Quarterfinalist,England
+2011,Real Madrid,4. Quarterfinalist,Spain
+2011,Schalke 04,4. Quarterfinalist,Germany
+2011,Shakhtar Donetsk,4. Quarterfinalist,Ukraine
+2011,Tottenham Hotspur,4. Quarterfinalist,England
+2011,Arsenal,5. Last 16,England
+2011,Barcelona,5. Last 16,Spain
+2011,Bayern Munich,5. Last 16,Germany
+2011,Chelsea,5. Last 16,England
+2011,Copenhagen,5. Last 16,Denmark
+2011,Internazionale,5. Last 16,Italy
+2011,Lyon,5. Last 16,France
+2011,Manchester United,5. Last 16,England
+2011,Marseille,5. Last 16,France
+2011,Milan,5. Last 16,Italy
+2011,Real Madrid,5. Last 16,Spain
+2011,Roma,5. Last 16,Italy
+2011,Schalke 04,5. Last 16,Germany
+2011,Shakhtar Donetsk,5. Last 16,Ukraine
+2011,Tottenham Hotspur,5. Last 16,England
+2011,Valencia,5. Last 16,Spain
+2012,Chelsea,1. Winner,England
+2012,Bayern Munich,2. Runner Up,Germany
+2012,Barcelona,3. Semifinalist,Spain
+2012,Bayern Munich,3. Semifinalist,Germany
+2012,Chelsea,3. Semifinalist,England
+2012,Real Madrid,3. Semifinalist,Spain
+2012,APOEL,4. Quarterfinalist,Cyprus
+2012,Barcelona,4. Quarterfinalist,Spain
+2012,Bayern Munich,4. Quarterfinalist,Germany
+2012,Benfica,4. Quarterfinalist,Portugal
+2012,Chelsea,4. Quarterfinalist,England
+2012,Marseille,4. Quarterfinalist,France
+2012,Milan,4. Quarterfinalist,Italy
+2012,Real Madrid,4. Quarterfinalist,Spain
+2012,APOEL,5. Last 16,Cyprus
+2012,Arsenal,5. Last 16,England
+2012,Barcelona,5. Last 16,Spain
+2012,Basel,5. Last 16,Switzerland
+2012,Bayer Leverkusen,5. Last 16,Germany
+2012,Bayern Munich,5. Last 16,Germany
+2012,Benfica,5. Last 16,Portugal
+2012,Chelsea,5. Last 16,England
+2012,CSKA Moscow,5. Last 16,Russia
+2012,Internazionale,5. Last 16,Italy
+2012,Lyon,5. Last 16,France
+2012,Marseille,5. Last 16,France
+2012,Milan,5. Last 16,Italy
+2012,Napoli,5. Last 16,Italy
+2012,Real Madrid,5. Last 16,Spain
+2012,Zenit Saint Petersberg,5. Last 16,Russia
+2013,Bayern Munich,1. Winner,Germany
+2013,Borussia Dortmund,2. Runner Up,Germany
+2013,Barcelona,3. Semifinalist,Spain
+2013,Bayern Munich,3. Semifinalist,Germany
+2013,Borussia Dortmund,3. Semifinalist,Germany
+2013,Real Madrid,3. Semifinalist,Spain
+2013,Barcelona,4. Quarterfinalist,Spain
+2013,Bayern Munich,4. Quarterfinalist,Germany
+2013,Borussia Dortmund,4. Quarterfinalist,Germany
+2013,Galatasary,4. Quarterfinalist,Turkey
+2013,Juventus,4. Quarterfinalist,Italy
+2013,Màlaga,4. Quarterfinalist,Spain
+2013,Paris Saint-German,4. Quarterfinalist,France
+2013,Real Madrid,4. Quarterfinalist,Spain
+2013,Arsenal,5. Last 16,England
+2013,Barcelona,5. Last 16,Spain
+2013,Bayern Munich,5. Last 16,Germany
+2013,Borussia Dortmund,5. Last 16,Germany
+2013,Celtic,5. Last 16,Scotland
+2013,Galatasary,5. Last 16,Turkey
+2013,Juventus,5. Last 16,Italy
+2013,Màlaga,5. Last 16,Spain
+2013,Manchester United,5. Last 16,England
+2013,Milan,5. Last 16,Italy
+2013,Paris Saint-German,5. Last 16,France
+2013,Porto,5. Last 16,Portugal
+2013,Real Madrid,5. Last 16,Spain
+2013,Schalke 04,5. Last 16,Germany
+2013,Shakhtar Donetsk,5. Last 16,Ukraine
+2013,Valencia,5. Last 16,Spain
+2014,Real Madrid,1. Winner,Spain
+2014,Atlético Madrid,2. Runner Up,Spain
+2014,Atlético Madrid,3. Semifinalist,Spain
+2014,Bayern Munich,3. Semifinalist,Germany
+2014,Chelsea,3. Semifinalist,England
+2014,Real Madrid,3. Semifinalist,Spain
+2014,Atlético Madrid,4. Quarterfinalist,Spain
+2014,Barcelona,4. Quarterfinalist,Spain
+2014,Bayern Munich,4. Quarterfinalist,Germany
+2014,Borussia Dortmund,4. Quarterfinalist,Germany
+2014,Chelsea,4. Quarterfinalist,England
+2014,Manchester United,4. Quarterfinalist,England
+2014,Paris Saint-German,4. Quarterfinalist,France
+2014,Real Madrid,4. Quarterfinalist,Spain
+2014,Arsenal,5. Last 16,England
+2014,Atlético Madrid,5. Last 16,Spain
+2014,Barcelona,5. Last 16,Spain
+2014,Bayer Leverkusen,5. Last 16,Germany
+2014,Bayern Munich,5. Last 16,Germany
+2014,Borussia Dortmund,5. Last 16,Germany
+2014,Chelsea,5. Last 16,England
+2014,Galatasary,5. Last 16,Turkey
+2014,Manchester City,5. Last 16,England
+2014,Manchester United,5. Last 16,England
+2014,Milan,5. Last 16,Italy
+2014,Olympiacos,5. Last 16,Greece
+2014,Paris Saint-German,5. Last 16,France
+2014,Real Madrid,5. Last 16,Spain
+2014,Schalke 04,5. Last 16,Germany
+2014,Zenit Saint Petersberg,5. Last 16,Russia
+2015,Barcelona,1. Winner,Spain
+2015,Juventus,2. Runner Up,Italy
+2015,Barcelona,3. Semifinalist,Spain
+2015,Bayern Munich,3. Semifinalist,Germany
+2015,Juventus,3. Semifinalist,Italy
+2015,Real Madrid,3. Semifinalist,Spain
+2015,Atlético Madrid,4. Quarterfinalist,Spain
+2015,Barcelona,4. Quarterfinalist,Spain
+2015,Bayern Munich,4. Quarterfinalist,Germany
+2015,Juventus,4. Quarterfinalist,Italy
+2015,Monaco,4. Quarterfinalist,France
+2015,Paris Saint-German,4. Quarterfinalist,France
+2015,Porto,4. Quarterfinalist,Portugal
+2015,Real Madrid,4. Quarterfinalist,Spain
+2015,Arsenal,5. Last 16,England
+2015,Atlético Madrid,5. Last 16,Spain
+2015,Barcelona,5. Last 16,Spain
+2015,Basel,5. Last 16,Switzerland
+2015,Bayer Leverkusen,5. Last 16,Germany
+2015,Bayern Munich,5. Last 16,Germany
+2015,Borussia Dortmund,5. Last 16,Germany
+2015,Chelsea,5. Last 16,England
+2015,Juventus,5. Last 16,Italy
+2015,Manchester City,5. Last 16,England
+2015,Monaco,5. Last 16,France
+2015,Paris Saint-German,5. Last 16,France
+2015,Porto,5. Last 16,Portugal
+2015,Real Madrid,5. Last 16,Spain
+2015,Schalke 04,5. Last 16,Germany
+2015,Shakhtar Donetsk,5. Last 16,Ukraine
