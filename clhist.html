@@ -13,7 +13,7 @@
   </head>
   <body>
     <div id="dashboard_div">
-        <h3>Champions League Knockout Stages - Appearances</h3>
+        <h3>Champions League Group &amp; Knockout Stage Appearances</h3>
          <p>
             <label for="startYYYY">Date range:</label>
             <input type="text" id="startYYYY" readonly style="border:0; color:#f6931f; font-weight:bold;" onchange="drawChart()">
@@ -28,7 +28,8 @@
             &nbsp;&nbsp;&nbsp;<input id="weighted" type="checkbox" onclick="drawChart()">Weighted <i>(Winner=16, Runner-up=8, Semi Finalist=4 etc...)</i>
         </p>
         <div id="stages">
-        <!--    <input id="groups" type="checkbox" checked="checked" onclick="drawChart()">Group Stage -->
+            <input id="groups" type="checkbox" checked="checked" onclick="drawChart()">Group Stage
+            <input id="last24" type="checkbox" checked="checked" onclick="drawChart()">Last 24 (<i>Pre-2000</i>)
             <input id="last16" type="checkbox" checked="checked" onclick="drawChart()">Last 16
             <input id="qtrfin" type="checkbox" checked="checked" onclick="drawChart()">Quarter Finalists
             <input id="semifn" type="checkbox" checked="checked" onclick="drawChart()">Semi Finalists
