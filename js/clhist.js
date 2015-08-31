@@ -33,6 +33,7 @@ function drawChart() {
       teamName=teamName.replace('%28','(');
       teamName=teamName.replace('%29',')');
       teamName=teamName.replace('%96','\361');
+      
       data.addRow([ teamName+' ('+appearances.toString()+')', appearances ]);
     }
     
@@ -58,6 +59,7 @@ function drawChart() {
   var phpURL="php/getCLHIST.php"
                     +"?startYYYY="+document.getElementById('startYYYY').value
                     +"&endYYYY="+document.getElementById('endYYYY').value
+                    +"&last32="+document.getElementById("last32").checked
                     +"&last16="+document.getElementById("last16").checked
                     +"&qtrfin="+document.getElementById("qtrfin").checked
                     +"&semifn="+document.getElementById("semifn").checked
@@ -74,10 +76,10 @@ function drawChart() {
 $(function() {
     $( "#slider-range" ).slider({
       range: true,
-      min: 2004,
-      max: 2015,
+      min: 2000,
+      max: 2016,
       step: 1,
-      values: [ 2004, 2015 ],
+      values: [ 2000, 2016 ],
       slide: function( event, ui ) {
           $( "#startYYYY" ).val( ui.values[ 0 ] );
           $( "#endYYYY" ).val( ui.values[ 1 ] );
