@@ -1,6 +1,6 @@
 # ChampionsLeague
-UEFA Champions League Knockout Stage Statistics using Google Visualizations<br/>
-Currently just contains knockout stages from 2004-present<br/>
+UEFA Champions League Knockout Stage Statistics using Google Visualization API<br/>
+Currently just contains knockout stages from 1999-2015<br/>
 <br/>
 View demo here: http://www.stephenmccready.com/clhist.html<br/>
 <br/>
