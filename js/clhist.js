@@ -76,10 +76,10 @@ function drawChart() {
 $(function() {
     $( "#slider-range" ).slider({
       range: true,
-      min: 2000,
+      min: 1997,
       max: 2016,
       step: 1,
-      values: [ 2000, 2016 ],
+      values: [ 1997, 2016 ],
       slide: function( event, ui ) {
           $( "#startYYYY" ).val( ui.values[ 0 ] );
           $( "#endYYYY" ).val( ui.values[ 1 ] );
