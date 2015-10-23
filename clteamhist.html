@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+        <meta charset="utf-8">
+        <title>CL Team History</title>
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+        <link rel="stylesheet" href="css/clteamhist.css">
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+        <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+        <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script src="js/spin.js"></script>
+        <script src="js/clteamhist.js"></script>
+    </head>
+<body>
+    <div id="select_div">
+    Search:&nbsp;<input type="text" id="ajax" list="json-datalist" placeholder="Team Name">
+                <datalist id="json-datalist"></datalist>&nbsp;
+    <button type="button" onclick="initialize()">Get Team History</button>
+    </div>    
+    <div id="table_div"></div>
+    <div id="chart_div"></div>
+    <div class="overlay-text">
+        <div class="overlay-div">Winner</div>
+        <div class="overlay-div">Runner Up</div>
+        <div class="overlay-div">Semi Finalist</div>
+        <div class="overlay-div">Quarter Finalist</div>
+        <div class="overlay-div">Last 16 Knockout</div>
+        <div class="overlay-div">Group Stage (16)</div>
+        <div class="overlay-div">Group Stage (24)</div>
+        <div class="overlay-div">Group Stage (32)</div>
+    </div>
+
+</body>
+</html>
