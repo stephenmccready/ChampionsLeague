@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#select_div {
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-bottom: 1%;
+}
+#chart_div {
+    align: center;
+    width: 700px;
+    height: 300px;
+    width: 75%;
+    float: left;
+}
+#table_div {
+    width: 25%;
+    margin-left: 5%;
+}
+.overlay-text {
+    width: 120px;
+    height: 200px;
+    position: absolute;
+    top: 254px;   /* chartArea top  */
+    left: 5px; /* chartArea left */
+    text-align: right;
+}
+.overlay-div {
+    height: 23px;
+    font-size: 75%;
+}
