@@ -126,7 +126,18 @@ function initialize()  {
 
   };
   
-  var phpURL="php/getCLTeamHIST.php"+"?team="+document.getElementById('ajax').value;
+  var phpTeam=document.getElementById('ajax').value;
+    phpTeam=phpTeam.replace(" ","+");
+    phpTeam=phpTeam.replace(" ","+");
+    phpTeam=phpTeam.replace(" ","+");
+    phpTeam=phpTeam.replace('\340','%88');
+    phpTeam=phpTeam.replace('\351','%8E');
+    phpTeam=phpTeam.replace('\347','%8D');
+    phpTeam=phpTeam.replace('(','%28');
+    phpTeam=phpTeam.replace(')','%29');
+    phpTeam=phpTeam.replace('\361','%96');
+  
+  var phpURL="php/getCLTeamHIST.php"+"?team="+phpTeam;
   
   oReq.open("get", phpURL, true);
   oReq.send();
