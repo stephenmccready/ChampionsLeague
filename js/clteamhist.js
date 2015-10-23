@@ -20,7 +20,20 @@ function start()    {
                 // Create a new <option> element.
                 var option = document.createElement('option');
                 // Set the value using the item in the JSON array.
-                option.value = item;
+                var teamName = item;
+                teamName=teamName.replace("{","");
+                teamName=teamName.replace("+"," ");
+                teamName=teamName.replace("+"," ");
+                teamName=teamName.replace("+"," ");
+                teamName=teamName.replace('"','');
+                teamName=teamName.replace('"','');
+                teamName=teamName.replace('%88','\340');
+                teamName=teamName.replace('%8E','\351');
+                teamName=teamName.replace('%8D','\347');
+                teamName=teamName.replace('%28','(');
+                teamName=teamName.replace('%29',')');
+                teamName=teamName.replace('%96','\361');
+                option.value = teamName;
                 // Add the <option> element to the <datalist>.
                 dataList.appendChild(option);
           });
