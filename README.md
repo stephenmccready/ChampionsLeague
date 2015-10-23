@@ -18,5 +18,6 @@ The page uses these resources:<br/>
 <br/>
 <b>php\getCLHIST.php</b> (reads and parses out data\CLHIST.csv by chosen date range, weighting and stage(s))<br/>
 <b>php\getCLTeamHIST.php</b> (reads and parses out data\CLHIST.csv by chosen team)<br/>
+<b>php\getTeams.php</b> (gets list of unique team names from data\CLHIST.csv for datalist in clteamhist.html)<br/>
 <br/>
 <b>data\CLHIST.csv</b> (contains list of teams and stages reached in the CL group and knockout stages)<br/>
