@@ -8,15 +8,15 @@ View demos here:<br/>
 <br/>
 The page uses these resources:<br/>
 <b>clhist.html</b><br/>
-clteamhist.html<br/>
+<b>clteamhist.html</b><br/>
 <br/>
-js\clhist.js (retreives the data using php\getCLHIST.php and feeds it into a google visualization table that is displayed in a 3D pie chart)<br/>
-js\clteamhist.js (retreives the data using php\getCLTeamHIST.php and feeds it into a google visualization table that is displayed in a bar chart)<br/>
+<b>js\clhist.js</b> (retreives the data using php\getCLHIST.php and feeds it into a google visualization table that is displayed in a 3D pie chart)<br/>
+<b>js\clteamhist.js</b> (retreives the data using php\getCLTeamHIST.php and feeds it into a google visualization table that is displayed in a bar chart)<br/>
 <br/>
-css\clhist.css<br/>
-css\clteamhist.css<br/>
+<b>css\clhist.css</b><br/>
+<b>css\clteamhist.css</b><br/>
 <br/>
-php\getCLHIST.php (reads and parses out data\CLHIST.csv by chosen date range, weighting and stage(s))<br/>
-php\getCLTeamHIST.php (reads and parses out data\CLHIST.csv by chosen team)<br/>
+<b>php\getCLHIST.php</b> (reads and parses out data\CLHIST.csv by chosen date range, weighting and stage(s))<br/>
+<b>php\getCLTeamHIST.php</b> (reads and parses out data\CLHIST.csv by chosen team)<br/>
 <br/>
-data\CLHIST.csv (contains list of teams and stages reached in the CL group and knockout stages)<br/>
+<b>data\CLHIST.csv</b> (contains list of teams and stages reached in the CL group and knockout stages)<br/>
