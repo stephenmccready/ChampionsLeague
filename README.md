@@ -7,7 +7,7 @@ View demos here:<br/>
 &nbsp;http://www.stephenmccready.com/clteamhist.html<br/>
 <br/>
 The page uses these resources:<br/>
-clhist.html<br/>
+<b>clhist.html</b><br/>
 clteamhist.html<br/>
 <br/>
 js\clhist.js (retreives the data using php\getCLHIST.php and feeds it into a google visualization table that is displayed in a 3D pie chart)<br/>
