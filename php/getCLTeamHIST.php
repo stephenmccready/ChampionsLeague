@@ -25,11 +25,11 @@ for ($i; $i<=$toYear; $i++) {
 
 if (($handle = fopen($filepath, "r")) !== FALSE) {
     while (($data = fgetcsv($handle, 1000, ",", "\"")) !== FALSE) {
-        if(strtoupper($team)==strtoupper($data[1])) {
+        if(strtoupper($team)==strtoupper(urldecode(str_replace('%20','+',$data[1])))) {
             foreach($teamArray as &$value) {
                 if($value['year'] == $data[0]) {
                    if(substr($data[2],0,1) < $value['stage'] || $value['stage'] == strval(0)) {
-                        $value['team'] = $data[1];
+                        $value['team'] = urlencode($data[1]);
                         $value['stage'] = substr($data[2],0,1);
                         $value['stagetext'] = $data[2];
                         $value['country'] = $data[3];
