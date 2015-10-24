@@ -2,6 +2,8 @@ google.load('visualization', '1', {'packages': ['table', 'map', 'corechart']});
 google.setOnLoadCallback(start);
 
 function start()    {
+    $('.overlay-div').hide();
+    
     // Create a new XMLHttpRequest.
     var request = new XMLHttpRequest();
     
@@ -82,17 +84,17 @@ function initialize()  {
                 break;
             case 7: color='silver'; stagetext='Runner-Up';
                 break;
-            case 6: color='bronze'; stagetext='Semi-Finalist';
+            case 6: color='#CD7F32'; stagetext='Semi-Finalist';
                 break;
-            case 5: color='purple'; stagetext='Quarter-Finalist';
+            case 5: color='#1F4D0E'; stagetext='Quarter-Finalist';
                 break;
-            case 4: color='blue'; stagetext='Last 16 Knockout';
+            case 4: color='#2A6612'; stagetext='Last 16 Knockout';
                 break;
-            case 3: color='blue'; stagetext='Group Stage (16)';
+            case 3: color='#348017'; stagetext='Group Stage (16)';
                 break;
-            case 2: color='orange'; stagetext='Group Stage (32)'; stage=1;
+            case 2: color='#85B374'; stagetext='Group Stage (32)'; stage=1;
                 break;
-            case 1: color='orange'; stagetext='Group Stage (24)'; stage=2;
+            case 1: color='#5D9945'; stagetext='Group Stage (24)'; stage=2;
                 break;
         }
       
@@ -123,6 +125,8 @@ function initialize()  {
 
     var table = new google.visualization.Table(document.getElementById('table_div'));
     table.draw(view, {showRowNumber: false, width: '100%', height: '100%', page: 'enable', pageSize: 5});
+    
+    $('.overlay-div').show();
 
   };
   
