@@ -14,6 +14,7 @@ html, body {
     height: 300px;
     width: 75%;
     float: left;
+    margin-left: 1%;
 }
 #table_div {
     width: 25%;
@@ -31,3 +32,11 @@ html, body {
     height: 23px;
     font-size: 75%;
 }
+.winner   {color: gold;}
+.runnerup {color: silver;}
+.semifinal {color: #CD7F32;}
+.qtrfinal {color: #1F4D0E;}
+.last16 {color: #2A6612;}
+.groupof16 {color: #348017;}
+.groupof24 {color: #5D9945;}
+.groupof32 {color: #85B374;}
