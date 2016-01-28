@@ -40,7 +40,12 @@ function start()    {
                 dataList.appendChild(option);
           });
         }
-      }
+      };
+        // Hack for Browsers that do not suppore the datalist
+        var availableTags = $('#json-datalist').find('option').map(function () {
+                return this.value;
+            }).get();
+        $('#ajax').autocomplete({ source: availableTags });
     };
     
     // Set up and make the request.
