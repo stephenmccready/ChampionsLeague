@@ -1,0 +1,81 @@
+Create Table Team (
+	  TeamID			Int Identity(1,1) Not Null
+	, TeamName			VarChar(64) Not Null
+	, TeamNickName		VarChar(64) Not Null
+	, ClubOrCountryFlag	Bit Not Null	-- 1=Club, 0=Country
+)
+
+Create Table TeamStadium (
+	  TeamStadiumID		Int Identity(1,1) Not Null
+	, TeamID			Int Not Null
+	, StadiumID			Int Not Null
+	, StartDate			DateTime Not Null
+	, EndDate			DateTime
+)
+
+Create Table Game (
+	  GameID			Int Identity(1,1) Not Null
+	, HomeTeamID		Int Not Null
+	, AwayTeamID		Int Not Null
+	, NeutralFlag		Bit Not Null
+	, ScheduledDate		DateTime
+	, PlayedDate		DateTime
+	, SchedStadiumID	Int
+	, PlayedStadiumID	Int
+	, HomeGoals			SmallInt
+	, AwayGoals			SmallInt
+	, ExtraTimeFlag		Bit
+	, ShootOutFlag		Bit
+	, HomePenalty		SmallInt
+	, AwayPenalty		SmallInt
+	, AggregatedGameID	Int
+)
+
+Create Table Stadium (
+	  StadiumID			Int Identity(1,1) Not Null
+	, StadiumName		VarChar(64) Not Null
+	, StadiumNickName	VarChar(64) Not Null
+	, OpenDate			DateTime Not Null
+	, ClosedDate		DateTime
+	, Lat				Float Not Null
+	, Lng				Float Not Null
+)
+
+Create Table Player (
+	  PlayerID			Int Identity(1,1) Not Null
+	, FirstName			VarChar(64) Not Null
+	, MiddleName		VarChar(64)
+	, LastName			VarChar(64) Not Null
+	, PrimPositionID	Int Not Null
+	, SecPositionID		Int
+	, TertPositionID	Int
+	, DateOfBirth		DateTime
+	, NationalityTeamID	Int
+)
+
+Create Table PlayerTeam (
+	  PlayerTeamID		Int Identity(1,1) Not Null
+	, PlayerID			Int Not Null
+	, TeamID			Int Not Null
+	, StartDate			DateTime Not Null
+	, EndDate			DateTime
+)
+
+Create Table GameSquad (
+	  GameSquadID		Int Identity(1,1) Not Null
+	, GameID			Int Not Null
+	, PlayerID			Int Not Null
+	, TeamID			Int Not Null
+	, Starting11Flag	Bit
+	, BenchFlag			Bit
+	, StartMinute		SmallInt
+	, EndMinute			SmallInt
+	, YellowCard		SmallInt
+	, RedCard			SmallInt
+)
+
+Create Table Position (
+	  PositionID		Int Identity(1,1) Not Null
+	, GenericPosition	VarChar(64) Not Null
+	, SpecificPosition	VarChar(64)
+)
