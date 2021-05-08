@@ -1,6 +1,6 @@
 # ChampionsLeague
 UEFA Champions League Knockout Stage Statistics using Google Visualization API<br/>
-Currently contains knockout stages from 1997-2016<br/>
+Currently contains knockout stages from 1997-2021<br/>
 <br/>
 View demos here:<br/>
 &nbsp;http://www.stephenmccready.com/clhist.html<br/>
